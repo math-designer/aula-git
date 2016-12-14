@@ -1,1 +1,2 @@
 Este arquivo implementa uma nova funcionalidade.
+Sendo alterado em func1
