@@ -1,0 +1,1 @@
+Este arquivo implementa uma nova funcionalidade.
